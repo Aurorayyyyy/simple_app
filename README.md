@@ -1,5 +1,5 @@
 Link: [Sonarqube](https://sonarcloud.io/summary/overall?id=thegangtechnology_simple_app)
-a
+
 
 ## A Demo Web app to show CI/CD
 
